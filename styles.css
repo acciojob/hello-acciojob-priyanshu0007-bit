@@ -3,12 +3,12 @@
 .accio{
 	height: 150px;
 	width: 150px;
-	background-color: rgb(255, 255, 255);
+	background-color:#000000;
 	margin-left: 32px;
 	padding:10px;
 }
 .hello-accio {
-	text-color:#ffffff;
+	color:#ffffff;
 	margin-left: 32px;
 	padding: 10px;
 }
