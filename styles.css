@@ -2,7 +2,9 @@
 /* Your CSS Code here. */
 main{
 	width:150ps;
-	background-color: #000000;
+	background-color: rgb(255,255,255);
+	margin-left: 32px;
+	padding:10px;
 }
 .hello-accio {
 	text-decoration-color:#ffffff;
